@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/patil_saurabh_" target="blank"><img src="https://img.shields.io/twitter/follow/patil_saurabh_?logo=twitter&style=for-the-badge" alt="patil_saurabh_" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **AI Technologies**
 
-- 💬 Ask me about **rest apis and websockets**
+- 💬 Ask me about **Application Devlopment (Cross platform)**
 
 - 📫 How to reach me **patil.saurabh60@gmail.com**
 
